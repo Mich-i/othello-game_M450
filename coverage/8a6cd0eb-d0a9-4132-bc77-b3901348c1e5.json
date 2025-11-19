@@ -1,0 +1,43 @@
+{
+  "scriptId": "335",
+  "url": "file:///C:/Projects/Schuel/M450/othello-game_M450/othello_files/quadratic_equation.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 267,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "solve",
+      "ranges": [
+        {
+          "startOffset": 7,
+          "endOffset": 266,
+          "count": 3
+        },
+        {
+          "startOffset": 78,
+          "endOffset": 176,
+          "count": 1
+        },
+        {
+          "startOffset": 176,
+          "endOffset": 264,
+          "count": 2
+        },
+        {
+          "startOffset": 194,
+          "endOffset": 264,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "tasks": {
+    "test": {
+      "runner": "deno test",
+      "permissions": {
+        "read": true,
+        "write": true,
+        "net": false
+      }
+    }
+  }
+}
