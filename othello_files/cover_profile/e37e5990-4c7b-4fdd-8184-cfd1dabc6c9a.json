@@ -1,0 +1,38 @@
+{
+  "scriptId": "335",
+  "url": "file:///C:/Projects/Schuel/M450/othello-game_M450/othello_files/fibonacci.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 222,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fibonacci",
+      "ranges": [
+        {
+          "startOffset": 7,
+          "endOffset": 222,
+          "count": 2
+        },
+        {
+          "startOffset": 97,
+          "endOffset": 104,
+          "count": 1
+        },
+        {
+          "startOffset": 146,
+          "endOffset": 207,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}
