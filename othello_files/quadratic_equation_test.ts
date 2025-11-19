@@ -15,3 +15,6 @@ Deno.test("solve returns empty array when D < 0", () => {
   const result = solve(1, 0, 1);
   expect(result).toEqual([]);
 });
+
+// Frage: Welchen Einfluss hat die Wahl der Sprache auf die Testfallermittlung, -umsetzung und Codeüberdeckung?
+// Wahl zwischen JavaScript und TypeScript hat keinen Einfluss auf die Testfallermittlung, die Testfallumsetzung oder die Codeüberdeckung.
