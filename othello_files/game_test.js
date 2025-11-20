@@ -62,7 +62,7 @@ async function loadGameModule() {
 }
 
 
-function withMockedRandom(value, fn) {
+function withMockedRandom(value, fn) { // Hilfsfunktion zum Mocken von Math.random
   const original = Math.random;
   Math.random = () => value;
   try {
@@ -71,6 +71,8 @@ function withMockedRandom(value, fn) {
     Math.random = original;
   }
 }
+
+// Tests
 
 Deno.test("fieldId baut ID aus row und col", async () => {
   const { fieldId } = await loadGameModule();

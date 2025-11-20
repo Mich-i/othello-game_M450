@@ -7,7 +7,7 @@
       "ranges": [
         {
           "startOffset": 0,
-          "endOffset": 4286,
+          "endOffset": 3982,
           "count": 1
         }
       ],
@@ -18,7 +18,7 @@
       "ranges": [
         {
           "startOffset": 45,
-          "endOffset": 1239,
+          "endOffset": 1132,
           "count": 1
         }
       ],
@@ -73,7 +73,7 @@
       "ranges": [
         {
           "startOffset": 754,
-          "endOffset": 1203,
+          "endOffset": 1096,
           "count": 64
         }
       ],
@@ -95,7 +95,7 @@
       "ranges": [
         {
           "startOffset": 951,
-          "endOffset": 1034,
+          "endOffset": 998,
           "count": 60
         }
       ],
@@ -105,8 +105,8 @@
       "functionName": "removeEventListener",
       "ranges": [
         {
-          "startOffset": 1045,
-          "endOffset": 1166,
+          "startOffset": 1009,
+          "endOffset": 1059,
           "count": 0
         }
       ],
@@ -116,18 +116,18 @@
       "functionName": "loadGameModule",
       "ranges": [
         {
-          "startOffset": 1323,
-          "endOffset": 1531,
+          "startOffset": 1162,
+          "endOffset": 1370,
           "count": 7
         },
         {
-          "startOffset": 1386,
-          "endOffset": 1413,
+          "startOffset": 1225,
+          "endOffset": 1252,
           "count": 1
         },
         {
-          "startOffset": 1441,
-          "endOffset": 1493,
+          "startOffset": 1280,
+          "endOffset": 1332,
           "count": 1
         }
       ],
@@ -137,8 +137,8 @@
       "functionName": "withMockedRandom",
       "ranges": [
         {
-          "startOffset": 1617,
-          "endOffset": 1790,
+          "startOffset": 1376,
+          "endOffset": 1593,
           "count": 4
         }
       ],
@@ -148,8 +148,8 @@
       "functionName": "Math.random",
       "ranges": [
         {
-          "startOffset": 1706,
-          "endOffset": 1717,
+          "startOffset": 1509,
+          "endOffset": 1520,
           "count": 4
         }
       ],
@@ -159,8 +159,8 @@
       "functionName": "",
       "ranges": [
         {
-          "startOffset": 1921,
-          "endOffset": 2022,
+          "startOffset": 1654,
+          "endOffset": 1755,
           "count": 1
         }
       ],
@@ -170,8 +170,8 @@
       "functionName": "",
       "ranges": [
         {
-          "startOffset": 2077,
-          "endOffset": 2537,
+          "startOffset": 1803,
+          "endOffset": 2263,
           "count": 1
         }
       ],
@@ -181,13 +181,13 @@
       "functionName": "get firstChild",
       "ranges": [
         {
-          "startOffset": 2252,
-          "endOffset": 2317,
+          "startOffset": 1978,
+          "endOffset": 2043,
           "count": 5
         },
         {
-          "startOffset": 2302,
-          "endOffset": 2309,
+          "startOffset": 2028,
+          "endOffset": 2035,
           "count": 1
         }
       ],
@@ -197,8 +197,8 @@
       "functionName": "removeChild",
       "ranges": [
         {
-          "startOffset": 2324,
-          "endOffset": 2449,
+          "startOffset": 2050,
+          "endOffset": 2175,
           "count": 2
         }
       ],
@@ -208,8 +208,8 @@
       "functionName": "",
       "ranges": [
         {
-          "startOffset": 2593,
-          "endOffset": 2718,
+          "startOffset": 2319,
+          "endOffset": 2444,
           "count": 1
         }
       ],
@@ -219,8 +219,8 @@
       "functionName": "",
       "ranges": [
         {
-          "startOffset": 2670,
-          "endOffset": 2693,
+          "startOffset": 2396,
+          "endOffset": 2419,
           "count": 1
         }
       ],
@@ -230,8 +230,8 @@
       "functionName": "",
       "ranges": [
         {
-          "startOffset": 2785,
-          "endOffset": 3056,
+          "startOffset": 2511,
+          "endOffset": 2782,
           "count": 1
         }
       ],
@@ -241,8 +241,8 @@
       "functionName": "",
       "ranges": [
         {
-          "startOffset": 2911,
-          "endOffset": 2966,
+          "startOffset": 2637,
+          "endOffset": 2692,
           "count": 1
         }
       ],
@@ -252,8 +252,8 @@
       "functionName": "",
       "ranges": [
         {
-          "startOffset": 2996,
-          "endOffset": 3051,
+          "startOffset": 2722,
+          "endOffset": 2777,
           "count": 1
         }
       ],
@@ -263,8 +263,8 @@
       "functionName": "validMoves",
       "ranges": [
         {
-          "startOffset": 3134,
-          "endOffset": 3176,
+          "startOffset": 2832,
+          "endOffset": 2874,
           "count": 1
         }
       ],
@@ -274,8 +274,8 @@
       "functionName": "FakeBoardSomeMoves",
       "ranges": [
         {
-          "startOffset": 3213,
-          "endOffset": 3255,
+          "startOffset": 2911,
+          "endOffset": 2953,
           "count": 2
         }
       ],
@@ -285,8 +285,8 @@
       "functionName": "validMoves",
       "ranges": [
         {
-          "startOffset": 3259,
-          "endOffset": 3375,
+          "startOffset": 2957,
+          "endOffset": 3073,
           "count": 2
         }
       ],
@@ -296,8 +296,8 @@
       "functionName": "",
       "ranges": [
         {
-          "startOffset": 3454,
-          "endOffset": 3632,
+          "startOffset": 3152,
+          "endOffset": 3330,
           "count": 1
         }
       ],
@@ -307,8 +307,8 @@
       "functionName": "",
       "ranges": [
         {
-          "startOffset": 3694,
-          "endOffset": 3957,
+          "startOffset": 3392,
+          "endOffset": 3655,
           "count": 1
         }
       ],
@@ -318,8 +318,8 @@
       "functionName": "",
       "ranges": [
         {
-          "startOffset": 3828,
-          "endOffset": 3915,
+          "startOffset": 3526,
+          "endOffset": 3613,
           "count": 1
         }
       ],
@@ -329,8 +329,8 @@
       "functionName": "",
       "ranges": [
         {
-          "startOffset": 4013,
-          "endOffset": 4282,
+          "startOffset": 3711,
+          "endOffset": 3980,
           "count": 1
         }
       ],
@@ -340,8 +340,8 @@
       "functionName": "",
       "ranges": [
         {
-          "startOffset": 4151,
-          "endOffset": 4240,
+          "startOffset": 3849,
+          "endOffset": 3938,
           "count": 1
         }
       ],

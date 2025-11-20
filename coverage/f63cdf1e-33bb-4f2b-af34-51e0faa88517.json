@@ -1,0 +1,157 @@
+{
+  "scriptId": "366",
+  "url": "file:///C:/Projects/Schuel/M450/othello-game_M450/othello_files/board.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 6252,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Board",
+      "ranges": [
+        {
+          "startOffset": 391,
+          "endOffset": 716,
+          "count": 1
+        },
+        {
+          "startOffset": 468,
+          "endOffset": 596,
+          "count": 8
+        },
+        {
+          "startOffset": 532,
+          "endOffset": 566,
+          "count": 64
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 626,
+          "endOffset": 684,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "of",
+      "ranges": [
+        {
+          "startOffset": 727,
+          "endOffset": 1313,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validMoves",
+      "ranges": [
+        {
+          "startOffset": 1317,
+          "endOffset": 2565,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "play",
+      "ranges": [
+        {
+          "startOffset": 2569,
+          "endOffset": 4235,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "result",
+      "ranges": [
+        {
+          "startOffset": 4239,
+          "endOffset": 4915,
+          "count": 8
+        },
+        {
+          "startOffset": 4519,
+          "endOffset": 4743,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "copy",
+      "ranges": [
+        {
+          "startOffset": 4919,
+          "endOffset": 5175,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "adjacentOf",
+      "ranges": [
+        {
+          "startOffset": 5179,
+          "endOffset": 5798,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fieldsWithState",
+      "ranges": [
+        {
+          "startOffset": 5802,
+          "endOffset": 6074,
+          "count": 24
+        },
+        {
+          "startOffset": 5885,
+          "endOffset": 6051,
+          "count": 192
+        },
+        {
+          "startOffset": 5929,
+          "endOffset": 6045,
+          "count": 1536
+        },
+        {
+          "startOffset": 5975,
+          "endOffset": 6037,
+          "count": 512
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "opponent",
+      "ranges": [
+        {
+          "startOffset": 6078,
+          "endOffset": 6249,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}

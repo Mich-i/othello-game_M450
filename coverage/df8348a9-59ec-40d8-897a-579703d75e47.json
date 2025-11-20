@@ -1,0 +1,351 @@
+{
+  "scriptId": "333",
+  "url": "file:///C:/Projects/Schuel/M450/othello-game_M450/othello_files/game_test.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 3982,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "setupDomMock",
+      "ranges": [
+        {
+          "startOffset": 45,
+          "endOffset": 1132,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get firstChild",
+      "ranges": [
+        {
+          "startOffset": 139,
+          "endOffset": 208,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "appendChild",
+      "ranges": [
+        {
+          "startOffset": 217,
+          "endOffset": 356,
+          "count": 64
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "removeChild",
+      "ranges": [
+        {
+          "startOffset": 365,
+          "endOffset": 496,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getElementById",
+      "ranges": [
+        {
+          "startOffset": 688,
+          "endOffset": 747,
+          "count": 25
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createElement",
+      "ranges": [
+        {
+          "startOffset": 754,
+          "endOffset": 1096,
+          "count": 64
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "add",
+      "ranges": [
+        {
+          "startOffset": 869,
+          "endOffset": 928,
+          "count": 136
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "addEventListener",
+      "ranges": [
+        {
+          "startOffset": 951,
+          "endOffset": 998,
+          "count": 60
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "removeEventListener",
+      "ranges": [
+        {
+          "startOffset": 1009,
+          "endOffset": 1059,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "loadGameModule",
+      "ranges": [
+        {
+          "startOffset": 1162,
+          "endOffset": 1370,
+          "count": 7
+        },
+        {
+          "startOffset": 1225,
+          "endOffset": 1252,
+          "count": 1
+        },
+        {
+          "startOffset": 1280,
+          "endOffset": 1332,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "withMockedRandom",
+      "ranges": [
+        {
+          "startOffset": 1376,
+          "endOffset": 1593,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Math.random",
+      "ranges": [
+        {
+          "startOffset": 1509,
+          "endOffset": 1520,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1654,
+          "endOffset": 1755,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 1803,
+          "endOffset": 2263,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get firstChild",
+      "ranges": [
+        {
+          "startOffset": 1978,
+          "endOffset": 2043,
+          "count": 5
+        },
+        {
+          "startOffset": 2028,
+          "endOffset": 2035,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "removeChild",
+      "ranges": [
+        {
+          "startOffset": 2050,
+          "endOffset": 2175,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 2319,
+          "endOffset": 2444,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 2396,
+          "endOffset": 2419,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 2511,
+          "endOffset": 2782,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 2637,
+          "endOffset": 2692,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 2722,
+          "endOffset": 2777,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "validMoves",
+      "ranges": [
+        {
+          "startOffset": 2832,
+          "endOffset": 2874,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "FakeBoardSomeMoves",
+      "ranges": [
+        {
+          "startOffset": 2911,
+          "endOffset": 2953,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "validMoves",
+      "ranges": [
+        {
+          "startOffset": 2957,
+          "endOffset": 3073,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 3152,
+          "endOffset": 3330,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 3392,
+          "endOffset": 3655,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 3526,
+          "endOffset": 3613,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 3711,
+          "endOffset": 3980,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 3849,
+          "endOffset": 3938,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}
