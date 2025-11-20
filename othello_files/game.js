@@ -137,7 +137,7 @@ function render(fields) {
   }
 }
 
-export {
+export { // erlaubt deno die funktionen zu nutzencls
   deleteChildren,
   fieldId,
   randomElement,

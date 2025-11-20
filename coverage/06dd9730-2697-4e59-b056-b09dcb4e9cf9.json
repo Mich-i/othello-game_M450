@@ -1,0 +1,149 @@
+{
+  "scriptId": "365",
+  "url": "file:///C:/Projects/Schuel/M450/othello-game_M450/othello_files/game.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 4041,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "deleteChildren",
+      "ranges": [
+        {
+          "startOffset": 106,
+          "endOffset": 230,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fieldId",
+      "ranges": [
+        {
+          "startOffset": 232,
+          "endOffset": 288,
+          "count": 65
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "randomElement",
+      "ranges": [
+        {
+          "startOffset": 290,
+          "endOffset": 478,
+          "count": 5
+        },
+        {
+          "startOffset": 346,
+          "endOffset": 395,
+          "count": 1
+        },
+        {
+          "startOffset": 395,
+          "endOffset": 477,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "opponentMove",
+      "ranges": [
+        {
+          "startOffset": 506,
+          "endOffset": 582,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "randomMove",
+      "ranges": [
+        {
+          "startOffset": 584,
+          "endOffset": 771,
+          "count": 3
+        },
+        {
+          "startOffset": 685,
+          "endOffset": 712,
+          "count": 1
+        },
+        {
+          "startOffset": 712,
+          "endOffset": 770,
+          "count": 2
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "render",
+      "ranges": [
+        {
+          "startOffset": 773,
+          "endOffset": 3898,
+          "count": 1
+        },
+        {
+          "startOffset": 906,
+          "endOffset": 2274,
+          "count": 8
+        },
+        {
+          "startOffset": 941,
+          "endOffset": 1519,
+          "count": 64
+        },
+        {
+          "startOffset": 1137,
+          "endOffset": 1187,
+          "count": 8
+        },
+        {
+          "startOffset": 1243,
+          "endOffset": 1334,
+          "count": 60
+        },
+        {
+          "startOffset": 1334,
+          "endOffset": 1476,
+          "count": 4
+        },
+        {
+          "startOffset": 1367,
+          "endOffset": 1476,
+          "count": 2
+        },
+        {
+          "startOffset": 1849,
+          "endOffset": 2223,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "selectField",
+      "ranges": [
+        {
+          "startOffset": 2278,
+          "endOffset": 3896,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}
