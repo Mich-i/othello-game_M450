@@ -136,3 +136,12 @@ function render(fields) {
     }, 1250);
   }
 }
+
+export {
+  deleteChildren,
+  fieldId,
+  randomElement,
+  opponentMove,
+  randomMove,
+  render,
+};
